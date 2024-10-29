@@ -1,0 +1,2 @@
+Install plugins: ~/.tmux/plugins/tpm/bin/install_plugins
+Source new config: tmux source ~/.tmux.conf
